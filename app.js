@@ -5,14 +5,14 @@ console.clear();
 
 console.log(process.argv);
 
+
+
+/*
 const [, , arg3='base=5'] =process.argv;
 const[,base=5] = arg3.split('=');
 //console.log(arg3);
 console.log(base);
-
-
-
-
+*/
 
 // table del 5
 //const base =10;
